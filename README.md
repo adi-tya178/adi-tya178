@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Aditya diving in work of TECH.
 
 <!--
 **adi-tya178/adi-tya178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
