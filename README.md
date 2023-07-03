@@ -1,7 +1,7 @@
 
 # Aditya Harsh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/adiharsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adiharsh)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/adi-tya178)
 
 Hi there! I'm Aditya Harsh, a passionate software developer with a strong background in Computer Science and Engineering. I love turning ideas into reality through coding and enjoy working on challenging projects. 
